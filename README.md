@@ -1,6 +1,9 @@
 ﻿# stock-price-prediction
 # 📈 Apple Stock Price Prediction using Machine Learning
 
+## Live Demo
+
+🚀 https://stock-price-prediction-kevaxswdgp3ervwged7vc6.streamlit.app/
 ## Overview
 
 This project is a **Machine Learning-based web application** that predicts Apple (AAPL) stock prices using historical stock market data. The model is trained on historical Apple stock prices and deployed through a **Flask** web application, allowing users to enter stock-related values and obtain a predicted stock price.
